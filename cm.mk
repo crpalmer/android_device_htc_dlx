@@ -6,7 +6,7 @@ TARGET_SCREEN_WIDTH := 1080
 PRODUCT_RELEASE_NAME := dlx
 
 # crpalmer specific
-TARGET_UNOFFICIAL_BUILD_ID := crpalmer
+TARGET_UNOFFICIAL_BUILD_ID := crpalmer-wip
 
 # Inherit some common CM stuff.
 $(call inherit-product, vendor/cm/config/common_full_phone.mk)
